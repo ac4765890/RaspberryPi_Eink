@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file alias="wifiOff">src/wifi-off.png</file>
+        <file alias="wifiOn">src/wifi-on.png</file>
+        <file alias="sleep">src/sleep.png</file>
+        <file alias="koreader">src/koreader.png</file>
+        <file alias="logo">src/logo.png</file>
+        <file alias="sleepPic">src/shutdown.jpg</file>
+    </qresource>
+</RCC>
